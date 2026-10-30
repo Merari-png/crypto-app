@@ -1,10 +1,3 @@
-
-    return(
-        <>
-            <h1>Coin Card Component</h1> 
-        </>
-    )
-
 const CoinCard = ({ coin }) => {
   return (
     <div className="coin-card">
