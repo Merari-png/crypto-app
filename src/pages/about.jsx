@@ -1,23 +1,21 @@
 const AboutPage = () => {
-
     return(
         <div className="about">
-            <h1>About Crypto App </h1>
-                <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo aperiam rem assumenda.
-                </p>
-                <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit sit autem repudiandae!
-                </p>
-                <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur consectetur autem distinctio?
-                </p>
-                <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi numquam deleniti quas, facilis praesentium consequuntur!
-                </p>
-            </div>
+            <h1>About Crypto App</h1>
+            <p>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore minus reiciendis aperiam.
+            </p>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error aliquam autem quisquam.
+            </p>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia error tempora ipsa!
+            </p>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia deserunt error repellat illum dignissimos accusamus.
+            </p>
+        </div>
     )
-
 }
 
 export default AboutPage
